@@ -1,5 +1,5 @@
 # 💫 About Me:
-# I'm currently working with PHP
+I'm currently working with PHP
 
 
 ## 🌐 Socials:
